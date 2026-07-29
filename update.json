@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "tag": "v0.3.0",
-  "assetUrl": "https://github.com/Reboot-Together/harukan-releases/releases/download/v0.3.0/HaruKan-v0.3.0-win-x64.zip",
-  "sha256": "db8c0fab363a52a431f5246bdeb075b624b905d81d13e03e505ce2ac53a42b5c",
-  "releaseUrl": "https://github.com/Reboot-Together/harukan-releases/releases/tag/v0.3.0",
-  "publishedAt": "2026-07-29T10:58:23.9896841+00:00"
+  "version": "0.4.0",
+  "tag": "v0.4.0",
+  "assetUrl": "https://github.com/Reboot-Together/harukan-releases/releases/download/v0.4.0/HaruKan-v0.4.0-win-x64.zip",
+  "sha256": "037fd0f8cc16780d37158a575c9138f8f78c94c4aa110e4bf5ac04d1bdf6ea90",
+  "releaseUrl": "https://github.com/Reboot-Together/harukan-releases/releases/tag/v0.4.0",
+  "publishedAt": "2026-07-29T12:21:21.2567863+00:00"
 }
