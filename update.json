@@ -1,8 +1,8 @@
 {
-  "version": "0.13.0",
-  "tag": "v0.13.0",
-  "assetUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/download/v0.13.0/Calendar-it-v0.13.0-win-x64.zip",
-  "sha256": "e939282ff47ea6cf5b3f59874140c3e63dc855f85f4981b3e347df9b1941639d",
-  "releaseUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/tag/v0.13.0",
-  "publishedAt": "2026-08-03T06:54:55.5457549+00:00"
+  "version": "0.14.0",
+  "tag": "v0.14.0",
+  "assetUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/download/v0.14.0/Calendar-it-v0.14.0-win-x64.zip",
+  "sha256": "02e6e63ad5b9266f9f0a7315fa5578af1357143d0a16aac4cbc372dda8f25ce4",
+  "releaseUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/tag/v0.14.0",
+  "publishedAt": "2026-08-03T13:07:12.2326375+00:00"
 }
