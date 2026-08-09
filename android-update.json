@@ -1,8 +1,8 @@
 {
-  "version": "0.16.0",
-  "tag": "v0.16.0",
-  "assetUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/download/v0.16.0/Calendar-it-v0.16.0-android.apk",
-  "sha256": "a226ec626402d5549b26d00e6b73c1f93491036039d34f293af7c703faec6926",
-  "releaseUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/tag/v0.16.0",
-  "publishedAt": "2026-08-05T15:53:48.0238537+00:00"
+  "version": "0.16.1",
+  "tag": "v0.16.1",
+  "assetUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/download/v0.16.1/Calendar-it-v0.16.1-android.apk",
+  "sha256": "4871099d36561ab8e2076006618626438054e068aea6e69a9717a7c1d2fb8f50",
+  "releaseUrl": "https://github.com/Reboot-Together/calendarit-releases/releases/tag/v0.16.1",
+  "publishedAt": "2026-08-09T16:34:59.7149274+00:00"
 }
